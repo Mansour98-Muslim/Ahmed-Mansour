@@ -1,0 +1,6 @@
+{
+  "name": "محاسبة النفس - جدول المحاسبة اليومي",
+  "description": "تطبيق محاسبة النفس للمسلم مع جدول يومي قابل للتخصيص ونسبة إنجاز تفاعلية وإصدار تقرير يومي مفصل بالاسم والتاريخ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
